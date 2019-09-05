@@ -3,6 +3,7 @@ const axios = require('axios');
 //  Imports from GraphQL
 const { GraphQLObjectType,
     GraphQLList,
+    GraphQLOutput,
     GraphQLInt,
     GraphQLString,
     GraphQLSchema,
